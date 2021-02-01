@@ -509,7 +509,7 @@ ul,ol{
 }
 .footer__copyright__text{
     text-align:center;
-    padding-bottom:5px
+    padding-bottom:0px;
 }
 .footer__copyright__text p{
     font-size:15px
