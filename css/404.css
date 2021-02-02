@@ -9,7 +9,7 @@ body {
 }
 
 #notfound {
-  position: relative;
+  position: flex;
   height: 70vh;
 }
 
